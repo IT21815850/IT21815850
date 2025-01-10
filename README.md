@@ -6,13 +6,10 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **ITP Project - Domestic tours and travel management system**
 
-- 🌱 I’m currently learning **Mern stack**
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **IT21815850@my.sliit.lk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
